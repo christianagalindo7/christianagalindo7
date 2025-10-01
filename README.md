@@ -31,11 +31,34 @@ Always leveling up, always learning, always ready for the next challenge.
 ---
 
 ## 🌟 My Coding Journey in Anime Form  
-- **Naruto 🌀** → Just like Naruto never gave up on becoming Hokage, I keep grinding through bugs and challenges until I master my craft.  
-- **One Piece ☠️** → Always searching for the ultimate treasure: building impactful projects with a great crew (collaboration matters!).  
-- **Attack on Titan ⚔️** → Facing massive problems head-on, breaking through walls of complexity.  
-- **Death Note 📓** → Using logic, strategy, and precision — every line of code should feel intentional.  
-- **Demon Slayer 🔥** → Relentless training arcs — always learning new frameworks, tools, and AI techniques to sharpen my blade.  
+
+### 🌀 Naruto  
+Just like Naruto never gave up on becoming Hokage, I keep grinding through bugs and challenges until I master my craft.  
+![Naruto](https://media.tenor.com/7fR6d0o6G2kAAAAd/naruto-anime.gif)  
+
+---
+
+### ☠️ One Piece  
+Always searching for the ultimate treasure: building impactful projects with a great crew (collaboration matters!).  
+![Luffy](https://media.tenor.com/lGn8V2xEx3AAAAAd/luffy-one-piece.gif)  
+
+---
+
+### ⚔️ Attack on Titan  
+Facing massive problems head-on, breaking through walls of complexity.  
+![Levi](https://media.tenor.com/sY_2xTQ2R2YAAAAd/levi-attack-on-titan.gif)  
+
+---
+
+### 📓 Death Note  
+Using logic, strategy, and precision — every line of code should feel intentional.  
+![Light Yagami](https://media.tenor.com/N65mrpMWcN4AAAAd/light-yagami-death-note.gif)  
+
+---
+
+### 🔥 Demon Slayer  
+Relentless training arcs — always learning new frameworks, tools, and AI techniques to sharpen my blade.  
+![Tanjiro](https://media.tenor.com/N37g2ECaQm0AAAAd/tanjiro-kamado-demon-slayer.gif)  
 
 ---
 
@@ -46,3 +69,5 @@ Always leveling up, always learning, always ready for the next challenge.
 - Turn ideas into reality  
 
 ---
+
+> _"A true coder doesn’t stop at syntax… they bend technology to their will."_  
