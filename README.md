@@ -1,8 +1,10 @@
 <!-- ANIME + IT DEVELOPER README -->
 
+<!-- 
 <p align="center">
   <img src="https://i.imgur.com/QF33nBL.jpg" width="100%" alt="Anime Tech Banner">
 </p>
+-->
 
 <h1 align="center">🌸 Hi, I'm [YOUR NAME] 🌸</h1>
 <p align="center">
@@ -73,7 +75,9 @@
 
 ---
 
+<!-- 
 <p align="center">
   <img src="https://i.imgur.com/bI0AAvH.jpg" width="100%" alt="Anime Outro Banner">
 </p>
+-->
 
