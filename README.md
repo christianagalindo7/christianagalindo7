@@ -1,33 +1,41 @@
-# ⚔️ Welcome to My Profile  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/N9XHlUO.gif" width="100%" alt="Anime Banner">
+</p>
 
-A developer who treats **coding like training arcs** and **AI like unlocking hidden powers**.  
+# 👋 Welcome to My Profile  
+
+⚔️ Developer | 🤖 AI Enthusiast | 🌌 Anime-powered Learner  
+I treat **coding like training arcs** and **AI like unlocking hidden powers**.  
 Always leveling up, always learning, always ready for the next challenge.  
 
 ---
 
 ## 🌀 About Me  
-- 🔭 Currently working on: [your project]  
-- 🌱 Learning: [tech/language/framework you're exploring]  
-- 📫 Reach me: [your email / LinkedIn]  
+- 🔭 Working on: full-stack + AI projects  
+- 🌱 Learning: advanced ML + cloud deployment  
+- 🎯 Goal: build impactful projects that merge AI & Web  
+- 📫 Reach: [your email / LinkedIn]  
 
 ---
 
 ## 💻 Full-Stack Arsenal  
-- **Frontend:** HTML | CSS | JavaScript | Responsive Design | React | Angular | Vue.js  
-- **Backend:** Node.js | Python (Django / Flask) | Ruby on Rails | PHP  
-- **Databases:** SQL (MySQL / PostgreSQL) | MongoDB  
-- **Other:** RESTful APIs | Authentication & Security | Git / GitHub  
-- **Deployment:** AWS | Heroku | Netlify | Vercel  
-- **Testing & Debugging**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,php,python,rails,mysql,postgresql,mongodb,git,github,aws" />
+</p>
 
 ---
 
 ## 🤖 AI & Machine Learning Powers  
-- Machine Learning | Deep Learning | Neural Networks | NLP | Computer Vision  
-- Data Analysis & Visualization | Data Preprocessing & Cleaning | Data Mining  
-- TensorFlow | PyTorch | Statistics & Probability | Linear Algebra  
-- Model Deployment & Optimization | Reinforcement Learning | Big Data & Cloud  
-- AI Ethics & Fairness  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,azure,gcp" />
+</p>
+
+- 🧠 Machine Learning | Deep Learning | Neural Networks  
+- 📊 Data Analysis & Visualization | Data Preprocessing | Data Mining  
+- 🔬 TensorFlow | PyTorch | Reinforcement Learning  
+- ☁️ Big Data & Cloud: Hadoop | Spark | AWS | Google Cloud | Azure  
+- ⚖️ AI Ethics & Fairness  
 
 ---
 
@@ -35,31 +43,49 @@ Always leveling up, always learning, always ready for the next challenge.
 
 ### 🌀 Naruto  
 Just like Naruto never gave up on becoming Hokage, I grind through bugs and challenges.  
-![Naruto](https://media.tenor.com/7fR6d0o6G2kAAAAd/naruto-anime.gif)  
+<p align="center">
+  <img src="https://media.tenor.com/7fR6d0o6G2kAAAAd/naruto-anime.gif" width="400">
+</p>
 
 ---
 
 ### ☠️ One Piece  
 Searching for the ultimate treasure: meaningful projects and a solid team.  
-![Luffy](https://media.tenor.com/XN4w6nwr1oEAAAAd/one-piece-luffy.gif)  
+<p align="center">
+  <img src="https://media.tenor.com/XN4w6nwr1oEAAAAd/one-piece-luffy.gif" width="400">
+</p>
 
 ---
 
 ### ⚔️ Attack on Titan  
 Face huge problems head-on and break through walls of complexity.  
-![Levi](https://media.tenor.com/7YqJ7tdmUQcAAAAd/levi-attack-on-titan.gif)  
+<p align="center">
+  <img src="https://media.tenor.com/7YqJ7tdmUQcAAAAd/levi-attack-on-titan.gif" width="400">
+</p>
 
 ---
 
 ### 📓 Death Note  
 Logic, strategy, and precision — every line of code should be intentional.  
-![Light Yagami](https://media.tenor.com/1GPP3L8lB7cAAAAd/death-note-light.gif)  
+<p align="center">
+  <img src="https://media.tenor.com/1GPP3L8lB7cAAAAd/death-note-light.gif" width="400">
+</p>
 
 ---
 
 ### 🔥 Demon Slayer  
 Relentless training: always learning frameworks, tools, and AI techniques.  
-![Tanjiro](https://media.tenor.com/qA3na63UQ7wAAAAd/tanjiro-kamado-demon-slayer.gif)  
+<p align="center">
+  <img src="https://media.tenor.com/qA3na63UQ7wAAAAd/tanjiro-kamado-demon-slayer.gif" width="400">
+</p>
+
+---
+
+## ⚡ GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
@@ -69,3 +95,10 @@ Relentless training: always learning frameworks, tools, and AI techniques.
 - Build projects that make an impact  
 
 > _"A true coder doesn’t stop at syntax… they bend technology to their will."_  
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5c/70/c0/5c70c05f6f6b3b1657f0b845885c9b47.gif" width="100%" alt="Anime Footer">
+</p>
