@@ -1,104 +1,79 @@
-<!-- Banner -->
+<!-- ANIME + IT DEVELOPER README -->
+
 <p align="center">
-  <img src="https://i.imgur.com/N9XHlUO.gif" width="100%" alt="Anime Banner">
+  <img src="https://i.imgur.com/QF33nBL.jpg" width="100%" alt="Anime Tech Banner">
 </p>
 
-# 👋 Welcome to My Profile  
-
-⚔️ Developer | 🤖 AI Enthusiast | 🌌 Anime-powered Learner  
-I treat **coding like training arcs** and **AI like unlocking hidden powers**.  
-Always leveling up, always learning, always ready for the next challenge.  
-
----
-
-## 🌀 About Me  
-- 🔭 Working on: full-stack + AI projects  
-- 🌱 Learning: advanced ML + cloud deployment  
-- 🎯 Goal: build impactful projects that merge AI & Web  
-- 📫 Reach: [your email / LinkedIn]  
-
----
-
-## 💻 Full-Stack Arsenal  
+<h1 align="center">🌸 Hi, I'm [YOUR NAME] 🌸</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,php,python,rails,mysql,postgresql,mongodb,git,github,aws" />
+  🚀 Full-Stack Developer | 🤖 AI Engineer | 🎬 Anime-Tech Enthusiast
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning Powers  
+## 💻 IT Development Skills
+
+- **Frontend:** HTML, CSS, JavaScript (React / Angular / Vue.js)  
+- **Backend:** Node.js, Python (Django / Flask), Ruby on Rails, PHP  
+- **Databases:** SQL (MySQL / PostgreSQL), MongoDB  
+- **Other Skills:** RESTful APIs, Authentication & Security  
+- **Deployment:** AWS, Heroku, Netlify, Vercel  
+- **Version Control:** Git, GitHub  
+- **Testing & Debugging:** Unit tests, automation  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,nodejs,python,rails,php,mysql,postgresql,mongodb,git,github,aws" />
+</p>
+
+---
+
+## 🤖 AI & Data Science Skills
+
+- Machine Learning | Deep Learning | Neural Networks  
+- Natural Language Processing (NLP) | Computer Vision  
+- TensorFlow | PyTorch  
+- Data Analysis & Visualization  
+- Reinforcement Learning | Big Data (Hadoop, Spark)  
+- Cloud Platforms (AWS, Google Cloud, Azure)  
+- Statistics, Probability, Linear Algebra  
+- AI Ethics & Fairness  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,azure,gcp" />
 </p>
 
-- 🧠 Machine Learning | Deep Learning | Neural Networks  
-- 📊 Data Analysis & Visualization | Data Preprocessing | Data Mining  
-- 🔬 TensorFlow | PyTorch | Reinforcement Learning  
-- ☁️ Big Data & Cloud: Hadoop | Spark | AWS | Google Cloud | Azure  
-- ⚖️ AI Ethics & Fairness  
+---
+
+## 🎬 Anime x IT Philosophy  
+
+> I believe coding is like living in an anime — every challenge is an arc, every bug is a boss fight, and every solution is a power-up.  
+> These are the anime that shaped my IT philosophy:
+
+- 🧪 **Steins;Gate** → Debugging timelines is like debugging code.  
+- 🌐 **Serial Experiments Lain** → Living inside the network, mastering the Wired.  
+- 🤖 **Ghost in the Shell** → AI, security, and the future of humanity in technology.  
+- 🧠 **Psycho-Pass** → Data-driven systems raise ethical questions — just like AI today.  
+- 🕶️ **Dennou Coil** → AR/VR brings coding into real-world overlays.  
+- ⚡ **Accel World** → Optimization and futuristic computing speed up progress.  
+- 🌍 **Summer Wars** → Large-scale networks and security challenges mirror real IT.  
+- 🔍 **Ergo Proxy** → Exploring consciousness and advanced systems through AI.  
 
 ---
 
-## 🌟 My Coding Journey in Anime Form  
+## ⚡ GitHub Stats  
 
-### 🌀 Naruto  
-Just like Naruto never gave up on becoming Hokage, I grind through bugs and challenges.  
-<p align="center">
-  <img src="https://media.tenor.com/7fR6d0o6G2kAAAAd/naruto-anime.gif" width="400">
-</p>
-
----
-
-### ☠️ One Piece  
-Searching for the ultimate treasure: meaningful projects and a solid team.  
-<p align="center">
-  <img src="https://media.tenor.com/XN4w6nwr1oEAAAAd/one-piece-luffy.gif" width="400">
-</p>
-
----
-
-### ⚔️ Attack on Titan  
-Face huge problems head-on and break through walls of complexity.  
-<p align="center">
-  <img src="https://media.tenor.com/7YqJ7tdmUQcAAAAd/levi-attack-on-titan.gif" width="400">
-</p>
-
----
-
-### 📓 Death Note  
-Logic, strategy, and precision — every line of code should be intentional.  
-<p align="center">
-  <img src="https://media.tenor.com/1GPP3L8lB7cAAAAd/death-note-light.gif" width="400">
-</p>
-
----
-
-### 🔥 Demon Slayer  
-Relentless training: always learning frameworks, tools, and AI techniques.  
-<p align="center">
-  <img src="https://media.tenor.com/qA3na63UQ7wAAAAd/tanjiro-kamado-demon-slayer.gif" width="400">
-</p>
-
----
-
-## ⚡ GitHub Stats & Streak  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" height="150"/>
 </p>
 
----
-
-## 🔥 My Way of the Coder  
-- Write clean and maintainable code  
-- Learn continuously like a never-ending saga  
-- Build projects that make an impact  
-
-> _"A true coder doesn’t stop at syntax… they bend technology to their will."_  
-
----
-
-<!-- Footer Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5c/70/c0/5c70c05f6f6b3b1657f0b845885c9b47.gif" width="100%" alt="Anime Footer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/bI0AAvH.jpg" width="100%" alt="Anime Outro Banner">
+</p>
+
