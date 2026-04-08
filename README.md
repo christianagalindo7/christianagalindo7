@@ -165,13 +165,6 @@
 ✅ お客様のビジネスに合わせた **最適な提案と高品質な成果物** をお約束いたします。  
 ✅ 長期的なサポートや保守も承ります。  
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=linkedin" width="80"/></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=github" width="80"/></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="80"/></a>
-  <a href="https://twitter.com/YOURUSERNAME"><img src="https://skillicons.dev/icons?i=twitter" width="80"/></a>
-</p>  
-
 ---
 
 ✨ *「Web ✨・AI 🤖・E-Commerce 🛒 を融合し、ビジネスの未来を共に創り上げましょう」*  
