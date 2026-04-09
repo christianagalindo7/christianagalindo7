@@ -150,15 +150,6 @@
 
 ---
 
-## 📈 GitHub スタッツ  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="180" />
-</p>  
-
----
-
 📩 Web開発、AI開発、E-Commerce構築など、幅広いご依頼に対応可能です。  
 ✅ お客様のビジネスに合わせた **最適な提案と高品質な成果物** をお約束いたします。  
 ✅ 長期的なサポートや保守も承ります。  
